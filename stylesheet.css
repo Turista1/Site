@@ -5,14 +5,14 @@ body{
 
 div{
 	margin:auto;
-	border: 2px ridge #cc0000;
+	border: 2px groove #cc0000;
 	border-radius: 50px;
 	width: 100px;
 	height: 25px;
 	display: inline-block;
 }
 
-#hist{
+#groot{
 	margin-top: 300px;
 	margin-left: 200px;
 	text-align: center;
@@ -20,7 +20,7 @@ div{
 	background-color: #cc0000;
 }
 
-#herois{
+#sl{
 	margin-top: 300px;
 	margin-left: 200px;
 	text-align: center;
@@ -28,7 +28,7 @@ div{
 	background-color: #cc0000;
 }
 
-#reinos{
+#gamora{
 	margin-top: 300px;
 	margin-left: 200px;
 	text-align: center;
@@ -36,7 +36,7 @@ div{
 	background-color: #cc0000;
 }
 
-#viloes{
+#drax{
 	margin-top: 325px;
 	margin-left: 200px;
 	text-align: center;
@@ -44,9 +44,17 @@ div{
 	background-color: #cc0000;
 }
 
+#rocket{
+	margin-left: 350px;
+	margin-top: 20px;
+	text-align: center;
+	font-family: impact;
+	background-color: #cc0000;
+}
+
 #logo{
 	border: none;
-	margin-top: 100px;
-	margin-right: 200px;
-	margin-left: 500px;
+	margin-top: 150px;
+	margin-right: 300px;
+	margin-left: 400px;
 }
