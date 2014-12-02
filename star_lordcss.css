@@ -1,0 +1,22 @@
+body{
+	background-image: url("sl.png");
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+p{
+	font-size: 18px;
+	color: #F0FFFF;
+	text-align: left;
+}
+
+h1{
+	text-align: left;
+	font-family: arial, serif;
+	color: #CDAD00;
+}
+
+pre{
+	font-family: arial, serif;
+	color: #CDAD00;
+}

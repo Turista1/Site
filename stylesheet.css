@@ -3,6 +3,16 @@ body{
 	background-repeat: no-repeat;
 }
 
+a{
+	text-decoration: none;
+	color: #daa520;
+}
+
+a:hover{
+	color: white;
+	font-style: italic;
+}
+
 div{
 	margin:auto;
 	border: 2px groove #cc0000;
