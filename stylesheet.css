@@ -1,0 +1,52 @@
+body{
+	background-image:url(background.jpeg);
+	background-repeat: no-repeat;
+}
+
+div{
+	margin:auto;
+	border: 2px ridge #cc0000;
+	border-radius: 50px;
+	width: 100px;
+	height: 25px;
+	display: inline-block;
+}
+
+#hist{
+	margin-top: 300px;
+	margin-left: 200px;
+	text-align: center;
+	font-family: impact;
+	background-color: #cc0000;
+}
+
+#herois{
+	margin-top: 300px;
+	margin-left: 200px;
+	text-align: center;
+	font-family: impact;
+	background-color: #cc0000;
+}
+
+#reinos{
+	margin-top: 300px;
+	margin-left: 200px;
+	text-align: center;
+	font-family: impact;
+	background-color: #cc0000;
+}
+
+#viloes{
+	margin-top: 325px;
+	margin-left: 200px;
+	text-align: center;
+	font-family: impact;
+	background-color: #cc0000;
+}
+
+#logo{
+	border: none;
+	margin-top: 100px;
+	margin-right: 200px;
+	margin-left: 500px;
+}
